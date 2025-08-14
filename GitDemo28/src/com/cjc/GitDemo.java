@@ -10,9 +10,14 @@ public class GitDemo {
 		System.out.println("this is m2...");
 	}
 
+	public void m3() {
+		System.out.println("this is m2...");
+	}
+
 	public static void main(String[] args) {
 
 		System.out.println("This is demo main");
 	}
 
 }
+
